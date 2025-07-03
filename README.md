@@ -12,4 +12,4 @@ to perform common actions such as sending emails, opening URLs, and sharing text
 
 📌 What is an Implicit Intent?
 An implicit intent doesn't specify the target component directly.
-Instead, it declares a general action to be performed, and Android resolves it to an appropriate app.
+Instead, it declares a general action to be performed, and Android resolves it to an appropriate app..
